@@ -1,0 +1,28 @@
+{
+  "name": "node-nextjs-auth-react-db",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g3org3/node-nextjs-auth-react-db.git"
+  },
+  "keywords": [],
+  "author": "George <7jagjag@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/g3org3/node-nextjs-auth-react-db/issues"
+  },
+  "homepage": "https://github.com/g3org3/node-nextjs-auth-react-db#readme",
+  "dependencies": {
+    "next": "^4.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
